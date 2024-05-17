@@ -1,0 +1,43 @@
+Medical information plays a vital role in healthcare by aiding healthcare professionals in making
+precise diagnoses, delivering effective treatments, and informed decisions about patient care [1, 2].
+Within the realm of medical information, medical imaging stands out as an invaluable source.
+In modern healthcare, medical imaging has become an essential tool, offering crucial visual
+insights into the internal structures and conditions of the human body [3]. Within dentistry,
+dental imaging refers to the use of various imaging techniques to capture detailed images of the
+oral and maxillofacial structures. These images are invaluable for diagnosing dental conditions,
+planning treatments, and monitoring oral health. Dental imaging plays a vital role in enabling
+dental professionals to visualize and evaluate the teeth, jaws, and supporting structures.
+Dental images can be acquired through different modalities, including X-rays, computed tomography (CT), magnetic resonance imaging (MRI), and intraoral cameras. Each modality offers
+specific advantages and is selected based on the specific diagnostic requirements and clinical
+scenario.
+Deep learning, in particular convolutional neural networks (CNNs) and computer vision, has
+become a revolutionary area of dentistry. Thanks to the use of these cutting-edge technologies, the
+dental industry is undergoing a period of transformation in which the analysis of dental images
+and the integration of artificial intelligence are revolutionizing many aspects of dental care [4]. By
+harnessing the capabilities of deep learning algorithms and computer vision techniques, dentistry
+has the potential to dramatically improve diagnostic performance, streamline treatment planning
+processes and, ultimately, improve patient outcomes.
+The utilization of CNNs in dentistry encompasses the detection of structures like teeth and
+bone, as well as the identification of pathologies such as caries and apical lesions. Additionally,
+CNNs are employed to segment images by isolating the areas of interest and classify them based
+on specific features like enamel caries lesions or cysts. However, it is important to acknowledge
+the limitations within this field. One of the significant weaknesses lies in the relatively small and
+private nature of the available datasets, which restricts the diversity and size of the training data.
+Moreover, some of the AI solutions developed in this domain may lack robustness and stability,
+raising concerns about their reliability and performance.
+To analyze dental images for tasks like lesion detection, age or sex determination, and human
+identification, tooth segmentation plays a vital role. In the field of oral medicine, the automatic
+segmentation of teeth in panoramic radiographs is a significant focus of research in image analysis.
+However, segmenting teeth in panoramic radiographs presents challenges due to the presence of
+other anatomical structures such as the chin, spine, and jaws.
+Within the existing literature, a multitude of studies have employed convolutional neural networks (CNNs) for tooth segmentation and identification in dental images. These advanced deep
+learning techniques have exhibited promising outcomes by leveraging the capabilities of CNNs to
+extract meaningful features and accurately segment teeth in dental images.
+This paper is organized as follows: Section 2 provides a summary of the current state of the
+art in automatic tooth segmentation and references relevant surveys in the field. In Section 3, we
+delve into the principles of deep learning, exploring its various categories, common applications,
+and specifically zooming in on the architecture of Convolutional Neural Networks (CNNs) within
+the context of medical image analysis in computer vision. The subsequent sections 4, 5, and 6
+present the study methodologies, research topics, and synthesis findings, offering detailed insights
+into the conducted research. Finally, Sections 7 and 8 discuss the study’s limitations and provide
+a conclusion.
